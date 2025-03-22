@@ -1,2 +1,4 @@
 # Reversible-Binding
-This is the repository that contains my python files which I used in my work on exploring reversible binding.
+This repository contains preliminary code for a research project on modeling drug and chemical binding in the outermost layer of human skin (stratum corneum). The goal is to simplify how we characterize effective binding and unbinding rates for keratin surfaces.
+
+Status: Work in progress
