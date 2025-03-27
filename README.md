@@ -1,4 +1,3 @@
 # Reversible-Binding
-This repository contains preliminary code for a research project on modeling drug and chemical binding in the outermost layer of human skin (stratum corneum). The goal is to simplify how we characterize effective binding and unbinding rates for keratin surfaces.
-
+This repository will contain all the numerical codes developed for our study on reversible binding in biological systems. The full set of scripts and results will be uploaded once the first preprint is made publicly available.
 Status: Work in progress
